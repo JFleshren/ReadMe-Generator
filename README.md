@@ -1,41 +1,39 @@
-# Test
+# ReadMe-Generator
 
 ## Description
 
-To test the app
+A simple application to quickly generate a README file.
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contributions](#contributions)
-- [Tests](#tests)
-- [Questions](#questions)
-## Installation
-
-123
-
-## Usage
-
-Run test
-
-## License
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-[MIT License](https://opensource.org/licenses/MIT)
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
-## Contributions
+## ReactPortfolio
 
 N/A
 
-## Tests
+## Usage
 
-none
+First, cd into the directory of the application and install dependencies with "npm install." To run the application, type "node index.js" into the terminal and press enter.
+Upon running the application, a user will be given several prompts relating to common README content. Properly provide the required information to these prompts and the applicationw will create a README.md file containing all given information. This README.md file can be viewed in the repository and will function as any normal README should. You may click a link in the table of contents to take you directly to that secion of the file/
 
-## Questions
+## Installation
 
-For additional questions, contact [GitUser](https://github.com/GitUser) or email User@mail.com.
+Install Node.js on your machine
+Install npm on your machine
+Clone the repository to your local machine using "git clone [ProjectCodeURL]"
+cd into the project
+Run "npm install" in the terminal
+
+## Credits
+
+N/A
+
+## Licenses
+
+MIT License
+
+## Deployed Application
+
+N/A
+
+## Video
+
+[Link to Video](https://drive.google.com/file/d/1AlAixvPj_f7MaliptHQiUQeNPzzuN2B2/view?usp=sharing)
+

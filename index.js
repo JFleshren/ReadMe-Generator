@@ -87,7 +87,7 @@ function init() {
       // Generate README content based on user input
       const readmeContent = generateREADME(answers);
       // Write README file
-      const filePath = './README.md'; // Specify the file path here
+      const filePath = './README_generate.md'; // Specify the file path here
       writeToFile(filePath, readmeContent);
     })
     .catch(error => {
