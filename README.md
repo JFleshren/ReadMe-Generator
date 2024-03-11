@@ -1,8 +1,8 @@
-# test project
+# Test
 
 ## Description
 
-to test the application
+To test the app
 
 ## Table of Contents
 
@@ -18,7 +18,7 @@ to test the application
 
 ## Usage
 
-to run a test
+Run test
 
 ## License
 
@@ -30,12 +30,12 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Contributions
 
-me
+N/A
 
 ## Tests
 
-runtest
+none
 
 ## Questions
 
-For additional questions, contact [GitHubUser](https://github.com/GitHubUser) or email User@email.com.
+For additional questions, contact [GitUser](https://github.com/GitUser) or email User@mail.com.
