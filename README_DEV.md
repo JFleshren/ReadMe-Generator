@@ -35,4 +35,5 @@ N/A
 
 ## Video
 
-![Video/Untitled_ Mar 10, 2024 11_09 PM.webm](https://github.com/JFleshren/ReadMe-Generator/blob/main/Video/Untitled_%20Mar%2010%2C%202024%2011_09%20PM.webm)
+[Link to Video](https://drive.google.com/file/d/1AlAixvPj_f7MaliptHQiUQeNPzzuN2B2/view?usp=sharing)
+
