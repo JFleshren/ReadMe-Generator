@@ -4,7 +4,7 @@
 
 A simple application to quickly generate a README file.
 
-## ReactPortfolio
+## Installation
 
 N/A
 
